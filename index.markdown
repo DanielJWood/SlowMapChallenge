@@ -1,8 +1,7 @@
 ---
 layout: home
+title: "#SlowMapChallenge begins October 25!"
 ---
-
-# #SlowMapChallenge begins October 25!
 
 What is it? 
 
